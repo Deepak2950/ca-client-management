@@ -1,0 +1,2 @@
+sequence diagram for student trying to access clg database
+equence diagram for users emotion based music player
